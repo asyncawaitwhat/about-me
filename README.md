@@ -20,7 +20,7 @@ In 2023, I stepped away from code to support my family’s construction business
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)  
-![MySQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=mysql&logoColor=white&style=flat-square)  
+![MySQL](https://img.shields.io/badge/-mysql-4169E1?logo=mysql&logoColor=white&style=flat-square)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
